@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "167280508260",
+    "firebase_url": "https://fir-snake-72ccd-default-rtdb.firebaseio.com",
+    "project_id": "fir-snake-72ccd",
+    "storage_bucket": "fir-snake-72ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167280508260:android:9585529f12d29d31254e71",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseSnakeGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCouIAna2EC8fWjXwHOLM7BCQhoBqUIE2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
